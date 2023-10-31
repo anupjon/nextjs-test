@@ -1,0 +1,10 @@
+.slide{
+      min-width: calc(100% + 0px);
+      max-width: calc(100% + 0px);
+      transform: translate3d(0, 0, 0);
+}
+
+.slider__img{
+    position: relative;
+    aspect-ratio: 16/7;
+}
