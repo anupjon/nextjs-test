@@ -25,7 +25,6 @@ export default function Slider({sliderImages}){
                         <Image 
                         priority 
                         fill  
-                        
                         style={{
                           objectFit: 'cover'
                         }}
