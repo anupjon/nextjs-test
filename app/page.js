@@ -2,9 +2,9 @@ import Image from 'next/image';
 import Slider from '@/app/ui/slider'
 
 const image = [
-  'https://images.pexels.com/photos/1121782/pexels-photo-1121782.jpeg',
-  'https://images.pexels.com/photos/13320032/pexels-photo-13320032.jpeg',
-  'https://images.pexels.com/photos/18331954/pexels-photo-18331954.jpeg'
+  '/pexels-photo-1121782.jpg',
+  '/pexels-photo-13320032.jpg',
+  '/pexels-photo-18331954.jpg'
 ]
 
 
