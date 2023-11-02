@@ -11,15 +11,15 @@
   "dependencies": {
     "@glidejs/glide": "^3.6.0",
     "keen-slider": "^6.8.6",
-    "next": "13.5.4",
-    "react": "^18",
-    "react-dom": "^18",
+    "next": "^14.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "sharp": "^0.32.6"
   },
   "devDependencies": {
     "autoprefixer": "^10",
     "eslint": "^8",
-    "eslint-config-next": "13.5.4",
+    "eslint-config-next": "^14.0.1",
     "postcss": "^8",
     "tailwindcss": "^3"
   }
