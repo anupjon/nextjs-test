@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         <header className='bg-slate-900 p-10'>
-
+          <h1 className='text-violet-300'>Logo</h1>
         </header>
         {children}
       </body>
